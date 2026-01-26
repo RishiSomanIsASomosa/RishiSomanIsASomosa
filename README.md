@@ -1,4 +1,4 @@
-# Hi there, I'm Rishi Soman! 👋
+# Hi there, I'm Rishi Rahul! 👋
 
 ### 👨‍💻 Developer | Open Source Enthusiast
 *(Yes, like the Samosa 🥟)*
