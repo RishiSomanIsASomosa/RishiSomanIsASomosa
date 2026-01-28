@@ -8,7 +8,7 @@ I am a passionate developer focused on building impactful solutions. I love turn
 - 🔭 I’m currently working on **[SolarVision](https://github.com/Hamdan772/SolarVision)**
 - 🌱 I’m currently learning **Computer Vision & Deep Learning**
 - 👯 I’m looking to collaborate on **AI & Open Source projects**
-- 📫 Reach me at: **[Your Email Here]**
+- 📫 Reach me at: **rishirahulsoman@gmail.com**
 
 ---
 
