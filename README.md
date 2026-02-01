@@ -5,7 +5,7 @@
 
 I am a passionate developer focused on building impactful solutions. I love turning complex problems into clean, efficient code.
 
-- 🔭 I’m currently working on **[SolarVision](https://github.com/Hamdan772/SolarVision)**
+- 🔭 I’m currently working on **[LoadCheck](https://github.com/RishiSomanIsASomosa/loadcheck)**
 - 🌱 I’m currently learning **Computer Vision & Deep Learning**
 - 👯 I’m looking to collaborate on **AI & Open Source projects**
 - 📫 Reach me at: **rishirahulsoman@gmail.com**
