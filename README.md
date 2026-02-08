@@ -283,10 +283,6 @@ console.log(currentStatus);
 - 💤 **Sleeping:** Error 404: Sleep schedule not found
 - 🎨 **Designing:** My escape plan from debugging hell
 
-<div align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's Connect (If You Dare Enter This Chaos)
@@ -455,8 +451,6 @@ me.live()  # This loop never ends
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-  <br>
   <i>This is fine. Everything is fine. I'm fine.</i>
   <br><br>
   
