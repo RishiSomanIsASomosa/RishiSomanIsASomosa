@@ -5,13 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A52E&center=true&vCenter=true&width=650&lines=Rishi+Soman+Is+A+Somosa+🥟;Professional+Code+Samosa+👨‍💻;Debugging+One+Bite+at+a+Time+🔍;Warning%3A+May+Contain+Spicy+Code+🌶️;99+Bugs+in+the+Code...+🐛;Take+One+Down%2C+Patch+It+Around+🔧;127+Bugs+in+the+Code!+😭;Powered+By+Coffee+%26+Chaos+☕;Stack+Overflow+Is+My+Best+Friend+📚;It+Works+On+My+Machine+™️+💻" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Deep%20Fried%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
 ## 🌶️ About This Crispy Developer
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const rishi = {
@@ -108,15 +102,7 @@ const rishi = {
 ## 🏆 Achievements Unlocked
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif" width="200"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RishiSomanIsASomosa&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="250"/>
 </div>
 
 ### 🎖️ Unofficial Achievements (The Real Ones)
@@ -167,8 +153,6 @@ if project == "SolarVision":
 <br clear="right"/>
 
 ### 📦 [LoadCheck](https://github.com/RishiSomanIsASomosa/loadcheck)
-
-<img align="left" alt="Loading" width="300" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
 
 ```javascript
 // Checking loads because I can't even check my own workload
@@ -247,11 +231,6 @@ When the bugs are getting to me and my coffee has gone cold, I turn to my sacred
 
 **🎧 [Click here for the ultimate debugging soundtrack](https://music.youtube.com/playlist?list=PLV6O8AaSVFZgH8ooM3V8wb0U1-803Djhh)**
 
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKMeCOV3oXSb5bq/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l378i1us6aRwLa7rW/giphy.gif" width="200"/>
 </div>
 
 **Warning:** This playlist has been scientifically proven* to:
@@ -346,10 +325,6 @@ console.log(currentStatus);
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📝 My Coding Philosophy
@@ -389,10 +364,6 @@ class Developer:
 me = Developer()
 me.live()  # This loop never ends
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="350"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -437,12 +408,6 @@ me.live()  # This loop never ends
   <img src="https://komarev.com/ghpvc/?username=RishiSomanIsASomosa&color=orange&style=for-the-badge&label=SOMOSAS+SERVED" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-
 ### ⚠️ WARNING ⚠️
 ### This profile may contain traces of:
 **Bugs • Dad Jokes • Existential Crisis • Caffeine Addiction • Questionable Commits • Sleep Deprivation**
@@ -477,7 +442,7 @@ me.live()  # This loop never ends
 
 <div align="center">
   
-### 🎯 2024 Goals Update:
+### 🎯 2026 Goals Update:
 
 <img src="https://media.giphy.com/media/KEYbcgR8oKQzwpwvLU/giphy.gif" width="200"/>
 
@@ -502,5 +467,3 @@ me.live()  # This loop never ends
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A52E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🥟;Don't+forget+to+star+my+repos!+⭐;Happy+Coding!+💻;May+your+bugs+be+few!+🐛;And+your+coffee+be+strong!+☕" alt="Footer Typing SVG" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
