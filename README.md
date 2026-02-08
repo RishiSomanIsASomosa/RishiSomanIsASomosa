@@ -2,14 +2,21 @@
 ### *Where Code Gets Deep-Fried Daily*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A52E&center=true&vCenter=true&width=600&lines=Rishi+Soman+Is+A+Somosa;Professional+Code+Samosa;Debugging+One+Bite+at+a+Time;Warning%3A+May+Contain+Spicy+Code;99+Bugs+in+the+Code...;Take+One+Down%2C+Patch+It+Around;127+Bugs+in+the+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A52E&center=true&vCenter=true&width=650&lines=Rishi+Soman+Is+A+Somosa+🥟;Professional+Code+Samosa+👨‍💻;Debugging+One+Bite+at+a+Time+🔍;Warning%3A+May+Contain+Spicy+Code+🌶️;99+Bugs+in+the+Code...+🐛;Take+One+Down%2C+Patch+It+Around+🔧;127+Bugs+in+the+Code!+😭;Powered+By+Coffee+%26+Chaos+☕;Stack+Overflow+Is+My+Best+Friend+📚;It+Works+On+My+Machine+™️+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Deep%20Fried%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 ## 🌶️ About This Crispy Developer
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const rishi = {
@@ -28,9 +35,15 @@ const rishi = {
     social_life: undefined,
     motivation: () => Math.random() > 0.9 ? "LET'S GO!" : "why am i doing this"
 };
-
-// Fun fact: This code compiles. My production code? Not so much.
 ```
+
+<br clear="right"/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200"/>
+</div>
 
 - 🥟 I'm not just any developer, I'm a **CRISPY SOMOSA**
 - 🔥 Currently being deep-fried in: **The eternal fires of "it works on my machine"**
@@ -42,11 +55,17 @@ const rishi = {
 - 🏆 Superpower: **Breaking production on Fridays at 4:59 PM**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
   <p><i>"When your code works but you don't know why"</i></p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎪 My Circus of Skills
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+</div>
 
 <div align="center">
 
@@ -68,53 +87,88 @@ const rishi = {
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats (Don't Judge Me)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishiSomanIsASomosa&show_icons=true&theme=radical&hide=contribs&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiSomanIsASomosa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiSomanIsASomosa&show_icons=true&theme=radical&hide=contribs&count_private=true&include_all_commits=true&border_radius=15&bg_color=0D1117&title_color=F7A52E&icon_color=F7A52E&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiSomanIsASomosa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiSomanIsASomosa&theme=radical&border_radius=15&background=0D1117&ring=F7A52E&fire=FF6B6B&currStreakLabel=F7A52E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiSomanIsASomosa&layout=compact&theme=radical&border_radius=15&bg_color=0D1117&title_color=F7A52E&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiSomanIsASomosa&theme=tokyo-night&bg_color=0D1117&color=F7A52E&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&radius=15" alt="Contribution Graph" />
 </div>
 
 > **Disclaimer:** The languages shown above do not include the language of my tears, sighs, and coffee orders
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="300"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements Unlocked
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishiSomanIsASomosa&theme=radical&no-frame=true&margin-w=15&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RishiSomanIsASomosa&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="250"/>
 </div>
 
 ### 🎖️ Unofficial Achievements (The Real Ones)
 
-| Achievement | Level | Status |
-|------------|-------|--------|
-| 🏅 Made code work without understanding why | ∞ | MASTERED |
-| 🎖️ Googled "how to center a div" | 547 times this week | EXPERT |
-| 🥇 Turned coffee into code | Daily record holder | LEGENDARY |
-| 🎯 Fixed bugs by adding more bugs | Pro level | UNSTOPPABLE |
-| 💎 "It works on my machine" | Certified | CERTIFIED |
-| 🔥 Pushed to production on Friday | Regret level: Maximum | DO NOT ATTEMPT |
-| 🎪 Used `git push --force` on main | Chaos achieved | WHAT HAVE I DONE |
-| 🌟 Forgot to save file before running | 999+ times | ETERNAL |
+<div align="center">
+
+| Achievement | Level | Status | Animation |
+|------------|-------|--------|-----------|
+| 🏅 Made code work without understanding why | ∞ | MASTERED | ![](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/100.gif) |
+| 🎖️ Googled "how to center a div" | 547x/week | EXPERT | ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/100.gif) |
+| 🥇 Turned coffee into code | Daily | LEGENDARY | ![](https://media.giphy.com/media/6b3OkQj81csfe/100.gif) |
+| 🎯 Fixed bugs by adding more bugs | Pro | UNSTOPPABLE | ![](https://media.giphy.com/media/cFkiFMDg3iFoI/100.gif) |
+| 💎 "It works on my machine" | Certified | CERTIFIED | ![](https://media.giphy.com/media/unQ3IJU2RG7DO/100.gif) |
+| 🔥 Pushed to production on Friday | Maximum Regret | DO NOT ATTEMPT | ![](https://media.giphy.com/media/13FrpeVH09Zrb2/100.gif) |
+
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2LH45XElELRzRm/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l3q2LH45XElELRzRm/giphy.gif" width="400"/>
   <p><i>"Me pretending to understand my own code from 2 weeks ago"</i></p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🚀 My Legendary Projects (That Actually Work... Sometimes)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlPystfePnYIxWg/giphy.gif" width="300"/>
+</div>
+
 ### 🌞 [SolarVision](https://github.com/RishiSomanIsASomosa/solarvison)
+
+<img align="right" alt="Solar Power" width="300" src="https://media.giphy.com/media/3oriNYQX2lC6dfW2Ji/giphy.gif">
+
 ```python
 # Because the world needs more solar power and less debugging sessions
 if project == "SolarVision":
@@ -122,11 +176,18 @@ if project == "SolarVision":
     print("Status: Brighter than my coding future")
     # Note: This project sees more light than I do
 ```
+
 **What it does:** Predicts solar energy like I predict when my code will break (spoiler: always)  
 **Tech Stack:** Python, ML, Hope, Dreams, and Solar Panels  
 **Fun Fact:** This project gets more sunlight than I do  
+**Status:** ✅ Actually works! (shocking, I know)
+
+<br clear="right"/>
 
 ### 📦 [LoadCheck](https://github.com/RishiSomanIsASomosa/loadcheck)
+
+<img align="left" alt="Loading" width="300" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+
 ```javascript
 // Checking loads because I can't even check my own workload
 const loadCheck = () => {
@@ -135,29 +196,32 @@ const loadCheck = () => {
     // TODO: Add work-life balance feature (PRIORITY: URGENT)
 }
 ```
+
 **What it does:** Monitors system loads (unlike my ability to monitor my sleep schedule)  
 **Tech Stack:** Code, Tears, Red Bull  
 **Achievement:** Successfully monitors loads while I can't monitor my life choices  
+**Status:** 🔄 In progress (like everything else in my life)
+
+<br clear="left"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
   <p><i>"When both projects compile on the first try"</i></p>
 </div>
 
-## 📈 Contribution Graph (My Chaotic Journey Through Time)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiSomanIsASomosa&theme=github-compact&bg_color=0d1117&color=F7A52E&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-*Green squares = Productivity*  
-*Empty squares = Contemplating life choices*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎭 Fun Facts About This Legendary Somosa
+
+<div align="center">
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="300"/>
+</div>
 
 ```python
 import random
 import depression  # Always imported, never used properly
+import coffee_addiction
+from life_choices import questionable_decisions
 
 fun_facts = [
     "I once spent 6 hours debugging only to find I forgot a semicolon 😭",
@@ -173,7 +237,9 @@ fun_facts = [
     "Stack Overflow is my second home (first home is my chair)",
     "I've googled the same error 47 times. Still don't understand it 🤷",
     "My commit messages are either 'fix' or 'asdfghjkl'",
-    "I code better at 3 AM. This is not a flex, it's a cry for help 🌙"
+    "I code better at 3 AM. This is not a flex, it's a cry for help 🌙",
+    "My debug logs are 90% print('here') and print('here2')",
+    "I've named variables 'thing1' and 'thing2' in production code"
 ]
 
 while True:
@@ -184,19 +250,31 @@ while True:
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎵 My Coding Playlist (AKA My Sanity Preserver)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctW/giphy.gif" width="400"/>
+</div>
 
 When the bugs are getting to me and my coffee has gone cold, I turn to my sacred playlist:
 
 <div align="center">
 
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLV6O8AaSVFZgH8ooM3V8wb0U1-803Djhh)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white&animated=true)](https://music.youtube.com/playlist?list=PLV6O8AaSVFZgH8ooM3V8wb0U1-803Djhh)
 
 **🎧 [Click here for the ultimate debugging soundtrack](https://music.youtube.com/playlist?list=PLV6O8AaSVFZgH8ooM3V8wb0U1-803Djhh)**
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKMeCOV3oXSb5bq/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l378i1us6aRwLa7rW/giphy.gif" width="200"/>
 </div>
 
 **Warning:** This playlist has been scientifically proven* to:
@@ -209,11 +287,17 @@ When the bugs are getting to me and my coffee has gone cold, I turn to my sacred
 *Not scientifically proven at all
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
   <p><i>"Me coding with my playlist on"</i></p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎪 Current Projects & Life Status
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+</div>
 
 ```javascript
 const currentStatus = {
@@ -232,6 +316,10 @@ console.log(currentStatus);
 // Output: *Existential crisis noises*
 ```
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="280"/>
+</div>
+
 - 🚧 **Building:** The next big thing (a working login form)
 - 🐛 **Debugging:** Everything. Literally everything.
 - 📚 **Learning:** How to center a div (still)
@@ -240,10 +328,18 @@ console.log(currentStatus);
 - 🎨 **Designing:** My escape plan from debugging hell
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🤝 Let's Connect (If You Dare Enter This Chaos)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+</div>
 
 <div align="center">
 
@@ -261,13 +357,29 @@ console.log(currentStatus);
 - 💻 Discussions about why semicolons exist
 - ☕ Strong opinions about coffee
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💭 Random Dev Wisdom (That I Never Follow)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📝 My Coding Philosophy
+
+<div align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
+</div>
 
 ```python
 class Developer:
@@ -302,10 +414,16 @@ me.live()  # This loop never ends
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="350"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎬 The Somosa Developer Starter Pack
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="300"/>
+</div>
 
 ✅ Coffee machine (required)  
 ✅ Stack Overflow account (essential)  
@@ -316,7 +434,18 @@ me.live()  # This loop never ends
 ✅ Imposter syndrome (comes free)  
 ✅ This GitHub profile (you're here!)  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="250"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎪 Somosa's Laws of Programming
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
+</div>
 
 1️⃣ **First Law:** If it works, don't touch it  
 2️⃣ **Second Law:** It never works  
@@ -328,14 +457,36 @@ me.live()  # This loop never ends
 8️⃣ **Eighth Law:** Past you is an idiot. Future you will say the same about current you  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xT5LMGupUKCHb7DnFu/giphy.gif" width="300"/>
   <p><i>"Accurate representation of my debugging process"</i></p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎨 My Workflow Visualized
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="300"/>
+  <p><b>Starting a new project</b></p>
+  
+  <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300"/>
+  <p><b>5 minutes into coding</b></p>
+  
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
+  <p><b>After the 50th error</b></p>
+  
+  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="300"/>
+  <p><b>When it finally works</b></p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RishiSomanIsASomosa&color=orange&style=for-the-badge&label=SOMOSAS+SERVED" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -343,6 +494,8 @@ me.live()  # This loop never ends
 ### ⚠️ WARNING ⚠️
 ### This profile may contain traces of:
 **Bugs • Dad Jokes • Existential Crisis • Caffeine Addiction • Questionable Commits • Sleep Deprivation**
+
+<img src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="200"/>
 
 ---
 
@@ -373,6 +526,9 @@ me.live()  # This loop never ends
 <div align="center">
   
 ### 🎯 2024 Goals Update:
+
+<img src="https://media.giphy.com/media/KEYbcgR8oKQzwpwvLU/giphy.gif" width="200"/>
+
 - ✅ Learn new framework (watched tutorial)
 - ❌ Finish side project (started 47 new ones instead)
 - ✅ Improve code quality (added more comments)
@@ -382,7 +538,7 @@ me.live()  # This loop never ends
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
   <br>
   <i>This is fine. Everything is fine. I'm fine.</i>
   <br><br>
@@ -390,3 +546,9 @@ me.live()  # This loop never ends
   **Made with ☕ (too much coffee), 💻 (questionable code), and 🥟 (pure somosa energy)**
   
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A52E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🥟;Don't+forget+to+star+my+repos!+⭐;Happy+Coding!+💻;May+your+bugs+be+few!+🐛;And+your+coffee+be+strong!+☕" alt="Footer Typing SVG" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
