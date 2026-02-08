@@ -6,11 +6,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Deep%20Fried%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
@@ -39,11 +34,6 @@ const rishi = {
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200"/>
-</div>
 
 - 🥟 I'm not just any developer, I'm a **CRISPY SOMOSA**
 - 🔥 Currently being deep-fried in: **The eternal fires of "it works on my machine"**
@@ -55,7 +45,6 @@ const rishi = {
 - 🏆 Superpower: **Breaking production on Fridays at 4:59 PM**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
   <p><i>"When your code works but you don't know why"</i></p>
 </div>
 
@@ -87,9 +76,6 @@ const rishi = {
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -116,10 +102,6 @@ const rishi = {
 </div>
 
 > **Disclaimer:** The languages shown above do not include the language of my tears, sighs, and coffee orders
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="300"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -248,11 +230,6 @@ while True:
     
 # Output: All of them, simultaneously
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -421,10 +398,6 @@ me.live()  # This loop never ends
 
 ## 🎬 The Somosa Developer Starter Pack
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="300"/>
-</div>
-
 ✅ Coffee machine (required)  
 ✅ Stack Overflow account (essential)  
 ✅ Rubber duck (for debugging)  
@@ -434,28 +407,7 @@ me.live()  # This loop never ends
 ✅ Imposter syndrome (comes free)  
 ✅ This GitHub profile (you're here!)  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="250"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎪 Somosa's Laws of Programming
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
-</div>
-
-1️⃣ **First Law:** If it works, don't touch it  
-2️⃣ **Second Law:** It never works  
-3️⃣ **Third Law:** If it works, you don't know why  
-4️⃣ **Fourth Law:** If it doesn't work, you still don't know why  
-5️⃣ **Fifth Law:** The bug is always in the last place you look (because you stop looking)  
-6️⃣ **Sixth Law:** Friday deployments are illegal (I do them anyway)  
-7️⃣ **Seventh Law:** There's always one more bug  
-8️⃣ **Eighth Law:** Past you is an idiot. Future you will say the same about current you  
-
 <div align="center">
   <img src="https://media.giphy.com/media/xT5LMGupUKCHb7DnFu/giphy.gif" width="300"/>
   <p><i>"Accurate representation of my debugging process"</i></p>
