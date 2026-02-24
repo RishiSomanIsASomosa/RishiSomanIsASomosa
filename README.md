@@ -105,21 +105,6 @@ const rishi = {
   <img src="https://github-profile-trophy.vercel.app/?username=RishiSomanIsASomosa&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-### 🎖️ Unofficial Achievements (The Real Ones)
-
-<div align="center">
-
-| Achievement | Level | Status | Animation |
-|------------|-------|--------|-----------|
-| 🏅 Made code work without understanding why | ∞ | MASTERED | ![](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/100.gif) |
-| 🎖️ Googled "how to center a div" | 547x/week | EXPERT | ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/100.gif) |
-| 🥇 Turned coffee into code | Daily | LEGENDARY | ![](https://media.giphy.com/media/6b3OkQj81csfe/100.gif) |
-| 🎯 Fixed bugs by adding more bugs | Pro | UNSTOPPABLE | ![](https://media.giphy.com/media/cFkiFMDg3iFoI/100.gif) |
-| 💎 "It works on my machine" | Certified | CERTIFIED | ![](https://media.giphy.com/media/unQ3IJU2RG7DO/100.gif) |
-| 🔥 Pushed to production on Friday | Maximum Regret | DO NOT ATTEMPT | ![](https://media.giphy.com/media/13FrpeVH09Zrb2/100.gif) |
-
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/l3q2LH45XElELRzRm/giphy.gif" width="400"/>
   <p><i>"Me pretending to understand my own code from 2 weeks ago"</i></p>
@@ -323,45 +308,6 @@ console.log(currentStatus);
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📝 My Coding Philosophy
-
-<div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
-</div>
-
-```python
-class Developer:
-    def __init__(self):
-        self.coffee = Infinite()
-        self.sleep = None
-        self.bugs = []
-        self.solutions = []
-        
-    def live(self):
-        while True:
-            self.drink_coffee()
-            self.code()
-            self.create_bugs()
-            self.google_solutions()
-            self.copy_from_stackoverflow()
-            self.debug()
-            self.cry()
-            self.question_life_choices()
-            self.repeat()
-            # Note: The cry() and question_life_choices() methods run most frequently
-            
-    def finish_project(self):
-        raise NotImplementedError("LOL nice try")
-        
-    def work_life_balance(self):
-        return False  # What's that?
-
-# Initialize developer
-me = Developer()
-me.live()  # This loop never ends
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎬 The Somosa Developer Starter Pack
 
